@@ -4,6 +4,6 @@ This Jupyter Notebook accompanies the article titled ["ESG Disclosures"](https:/
 
 **Pre-requisites:** 
 
-**Thomson Reuters Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/eikon-data-apis)
+**Refinitiv Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/eikon-data-apis)
 
 **Required Python Packages:** eikon, pandas, datetime, matplotlib
